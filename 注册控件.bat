@@ -1,0 +1,1 @@
+regsvr32 EMRPad30.ocx
